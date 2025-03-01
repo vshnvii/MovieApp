@@ -17,7 +17,7 @@ The **Movie Recommendation App** is a machine learning-based web application tha
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/movie-recommendation-app.git
+   git clone https://github.com/vshnvii/movie-recommendation-app.git
    cd movie-recommendation-app
    ```
 2. Create a virtual environment (optional but recommended):
