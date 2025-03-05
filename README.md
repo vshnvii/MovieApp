@@ -44,6 +44,9 @@ The **Movie Recommendation App** is a machine learning-based web application tha
 ## Dataset
 The dataset used in this project is sourced from **TMDb** and preprocessed for better recommendations. It includes movie titles, genres, descriptions, and other metadata.
 
+## Must See
+TMDb in india has been banned by Jio, so make sure to use/open the app on any other network except Jio.
+
 ## Future Improvements
 - Add collaborative filtering for better recommendations
 - Integrate a movie trailer preview feature
