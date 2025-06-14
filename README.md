@@ -52,7 +52,6 @@ TMDb in india has been banned by Jio, so make sure to use/open the app on any ot
 - Integrate a movie trailer preview feature
 - Deploy the app on **Heroku or Streamlit Sharing**
 
-## License
-This project is for learning purpose.
+
 
 
