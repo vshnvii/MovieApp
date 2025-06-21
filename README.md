@@ -41,6 +41,9 @@ The **Movie Recommendation App** is a machine learning-based web application tha
 3. Click the "Recommend" button to get a list of similar movies.
 4. Explore the recommended movies and enjoy!
 
+## 📸 App Preview
+![App Screenshot](preview.png)
+
 ## Dataset
 The dataset used in this project is sourced from **TMDb** and preprocessed for better recommendations. It includes movie titles, genres, descriptions, and other metadata.
 
